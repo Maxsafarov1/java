@@ -1,4 +1,4 @@
-Даны катеты прямоугольного треугольника. Найти его гипотенузу.
-![1](https://github.com/Maxsafarov1/java/assets/128669573/f38bcc7a-4cc9-4f9e-9ceb-609213fc7096)
-![2](https://github.com/Maxsafarov1/java/assets/128669573/8cf23419-e2f7-4b91-bf9b-fd87187c022a)
-![3](https://github.com/Maxsafarov1/java/assets/128669573/395f4a38-2897-4153-a720-ee17555e1ada)
+Даны катеты прямоугольного треугольника. Найти его периметр
+![8](https://github.com/Maxsafarov1/java/assets/128669573/d33c466d-18cf-4d87-961a-92f1319c94ad)
+![9](https://github.com/Maxsafarov1/java/assets/128669573/420c66e8-0123-40ed-8ef7-61af41db74aa)
+![10](https://github.com/Maxsafarov1/java/assets/128669573/a09b639d-1e0a-447d-8834-1f00a56f82f8)
